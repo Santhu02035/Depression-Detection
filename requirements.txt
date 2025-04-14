@@ -1,0 +1,17 @@
+numpy
+opensmile
+streamlit 
+pydub
+librosa
+xgboost
+scikit-learn
+matplotlib
+joblib
+torchaudio
+streamlit-webrtc
+altair
+SpeechRecognition
+soundfile
+matplotlib
+pyaudio==0.2.11
+audio-recorder-streamlit
