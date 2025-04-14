@@ -324,7 +324,7 @@ The classification report for VoxWispAI, powered by XGBoost, shows strong perfor
 
 ## Conclusion:
 
-VoxwispAI, developed by Simbolo students, bridges the gap between artificial intelligence and emotional wellbeing through AI-powered voice depression detection. Guided by ethical principles of **privacy**, **fairness**, and **transparency**, VoxwispAI addresses emotional and social challenges in today's society.
+VoxwispAI, developed by MVSR students, bridges the gap between artificial intelligence and emotional wellbeing through AI-powered voice depression detection. Guided by ethical principles of **privacy**, **fairness**, and **transparency**, VoxwispAI addresses emotional and social challenges in today's society.
 
 Looking ahead, VoxwispAI aims to expand its capabilities by:
 * Incorporating **multimodal inputs** like facial expressions
