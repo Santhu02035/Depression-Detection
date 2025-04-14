@@ -3,7 +3,7 @@
 ## Introduction
 
 
-VoxWispAI is a cutting-edge platform that detects depression through voice analysis, using advanced XGBoost machine learning techniques. Developed by Simbolo students, it aims to bridge the gap between human emotions and AI, addressing emotional and social challenges in today's society.
+VoxWispAI is a cutting-edge platform that detects depression through voice analysis, using advanced XGBoost machine learning techniques. Developed by MVSR students, it aims to bridge the gap between human emotions and AI, addressing emotional and social challenges in today's society.
 
 
 
@@ -342,8 +342,6 @@ While maintaining a commitment to **user trust** and **emotional well-being**, V
 
 This project is referenced by the paper - [IEEE ICCE-TW 2024](https://ieeexplore.ieee.org/document/10674452) 
 
-You can try with the model **[Demo](https://depression-analysis-model-lzxgrcdxudwjarhssproas.streamlit.app/)**.
-
 -----
 
 # Try this Model
@@ -383,7 +381,7 @@ If you want to check the notebook, you can find here `backend/pre-model.ipynb`
 
 ### Clone the project
 ```shell
-git clone https://github.com/Hein-HtetSan/depression-analysis-model.git
+git clone https://github.com/Santhu02035/Depression-Detection.git
 
 ```
 
