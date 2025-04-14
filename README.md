@@ -9,17 +9,13 @@ VoxWispAI is a cutting-edge platform that detects depression through voice analy
 
 ## Contributors 
 
-- Pyi Bhone Kyaw
-- Hein Htet San
-- Hein Htet Aung (David Chang)
-
-## Supervisor
-
-- Tr. Htet Htet Mon
+- SANTHOSH THIRUNAGARU
+- RAMPALLY GURU CHARAN
+- VASANTHAM VIGNESH 
 
 ## Institution
 
-- Simbolo
+- MVSR Engineering College
 
 ## Project Overview
 
@@ -389,7 +385,6 @@ If you want to check the notebook, you can find here `backend/pre-model.ipynb`
 ```shell
 git clone https://github.com/Hein-HtetSan/depression-analysis-model.git
 
-cd depression-analysis-model
 ```
 
 ### Create Virtual Environment
