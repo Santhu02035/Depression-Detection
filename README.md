@@ -11,7 +11,8 @@ VoxWispAI is a cutting-edge platform that detects depression through voice analy
 
 - SANTHOSH THIRUNAGARU
 - RAMPALLY GURU CHARAN
-- VASANTHAM VIGNESH 
+- VASANTHAM VIGNESH
+- MARKAPURAM VENKATA AKHIL 
 
 ## Institution
 
